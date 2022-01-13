@@ -8,7 +8,6 @@ const darkTheme = {
   backgroundColor: "#111",
 }
 
-
 const lightTheme = {
   textColor: "#111",
   backgroundColor: "whitesmoke",
